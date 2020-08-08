@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="15" tilewidth="32" tileheight="32" nextobjectid="7">
+ <properties>
+  <property name="ad" value="false"/>
+ </properties>
+ <tileset firstgid="1" name="map_tiles" tilewidth="32" tileheight="32">
+  <image source="../../img/map_tiles.png" width="480" height="480"/>
+ </tileset>
+ <layer name="map" width="25" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9VU2w2EMAzLFxvcAozAHDBKFwAJMdqNxvUjyI1qB534wVJUUuw2L3Uys900Jvieyb5jE1qGMfjlhqaHqvsQG4D3879u7JxF3IP6aM5ZyDmZDvW4kjguY9oS9nraaKXldWNkWiNalS+rlfv4T9VDcUSMaR5qrpCr8vOV9SPq/5irNI8YC0M2V6ofb5qrrB8xx6fnStUKufXtWjt3Iw5r37iKE58v+gzcBQAA
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1"/>
+</map>

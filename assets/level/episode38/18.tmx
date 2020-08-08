@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="15" tilewidth="32" tileheight="32" nextobjectid="18">
+ <properties>
+  <property name="ad" value="false"/>
+ </properties>
+ <tileset firstgid="1" name="map_tiles" tilewidth="32" tileheight="32">
+  <image source="../../img/map_tiles.png" width="480" height="480"/>
+ </tileset>
+ <layer name="map" width="25" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACzNiIAyMkdi+SGw2EvUSC9DtEGVgWIBPPbI7kNW6I/GBdIIBDrNyiXATsh3uqPYlEHIfCBjhsBsXwGUHiE2qWejuQDIXboY7A24zfUgwHz0scZmZi4NNDFBH44PiRh5iF5iNjGGgGQmLItx2AMo/gK5PlAEVwMSISfNDEYDSFba8BhOnFsgnII8et9gAvvRCLX/oEqEmEo0fxUA4fcRDaUMi3REOpYuQxEB2KDBgpnUYboKqAwC41XJB3AUAAA==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="7" name="Asteroid" x="576" y="256" width="32" height="32">
+   <properties>
+    <property name="waittime" value="0.25"/>
+   </properties>
+  </object>
+  <object id="8" name="Asteroid" x="608" y="256" width="32" height="32">
+   <properties>
+    <property name="waittime" value="0.5"/>
+   </properties>
+  </object>
+  <object id="10" name="Asteroid" x="640" y="256" width="32" height="32">
+   <properties>
+    <property name="waittime" value="0.75"/>
+   </properties>
+  </object>
+  <object id="11" name="Asteroid" x="672" y="256" width="32" height="32">
+   <properties>
+    <property name="waittime" value="1"/>
+   </properties>
+  </object>
+  <object id="12" name="Asteroid" x="704" y="256" width="32" height="32">
+   <properties>
+    <property name="waittime" value="1.25"/>
+   </properties>
+  </object>
+  <object id="13" name="Asteroid" x="672" y="96" width="32" height="32">
+   <properties>
+    <property name="waittime" value="1"/>
+   </properties>
+  </object>
+  <object id="14" name="Asteroid" x="640" y="96" width="32" height="32">
+   <properties>
+    <property name="waittime" value="0.75"/>
+   </properties>
+  </object>
+  <object id="15" name="Asteroid" x="576" y="96" width="32" height="32">
+   <properties>
+    <property name="waittime" value="0.25"/>
+   </properties>
+  </object>
+  <object id="16" name="Asteroid" x="704" y="96" width="32" height="32">
+   <properties>
+    <property name="waittime" value="1.25"/>
+   </properties>
+  </object>
+  <object id="17" name="Asteroid" x="608" y="96" width="32" height="32">
+   <properties>
+    <property name="waittime" value="0.5"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

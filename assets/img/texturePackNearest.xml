@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="TexturePackNearest.png" type="bitmap" width="1024" height="512" pixelformat="RGBA_8888" minfilter="nearest" magfilter="nearest" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:3ea9744ceb9b15bb978d67aa67921157:a5f4407dfb8675e9593dcaccdd8091a3:72cd5265393752b446f5306eabcfc4dd$ -->
+    <textureregion id="0" src="ClearRateBackground.png" x="825" y="66" width="100" height="61" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="100" srcheight="61"/>
+    <textureregion id="1" src="ClearStatusBackground.png" x="806" y="3" width="124" height="60" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="60"/>
+    <textureregion id="2" src="DecreaseButton.png" x="933" y="60" width="53" height="54" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="53" srcheight="54"/>
+    <textureregion id="3" src="IncreaseButton.png" x="933" y="3" width="53" height="54" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="53" srcheight="54"/>
+    <textureregion id="4" src="LikeStatusBackground.png" x="3" y="466" width="59" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="59" srcheight="43"/>
+    <textureregion id="5" src="TileButtonBackground.png" x="928" y="117" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="6" src="background_tile.png" x="65" y="466" width="32" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="32"/>
+    <textureregion id="7" src="laser.png" x="278" y="498" width="32" height="8" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="8"/>
+    <textureregion id="8" src="laser_wall.png" x="65" y="501" width="32" height="8" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="32" srcheight="8"/>
+    <textureregion id="9" src="mapViewerBackgroundLeft.png" x="806" y="246" width="16" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="16" srcheight="240"/>
+    <textureregion id="10" src="mapViewerBackgroundRight.png" x="989" y="3" width="16" height="240" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="16" srcheight="240"/>
+    <textureregion id="11" src="menu_bar.png" x="3" y="383" width="800" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="800" srcheight="80"/>
+    <textureregion id="12" src="slicedBoardCenter.png" x="25" y="3" width="256" height="376" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="256" srcheight="376"/>
+    <textureregion id="13" src="slicedBoardLeft.png" x="3" y="3" width="19" height="377" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="19" srcheight="377"/>
+    <textureregion id="14" src="slicedBoardRight.png" x="284" y="3" width="19" height="376" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="19" srcheight="376"/>
+    <textureregion id="15" src="tileCategoryBackgroundBottom.png" x="163" y="498" width="60" height="10" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="60" srcheight="10"/>
+    <textureregion id="16" src="tileCategoryBackgroundCenter.png" x="100" y="466" width="60" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="60" srcheight="16"/>
+    <textureregion id="17" src="tileCategoryBackgroundTop.png" x="100" y="498" width="60" height="10" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="60" srcheight="10"/>
+    <textureregion id="18" src="tileGroupBackground1.png" x="265" y="498" width="10" height="10" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="10" srcheight="10"/>
+    <textureregion id="19" src="tileGroupBackground2.png" x="252" y="498" width="10" height="10" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="10" srcheight="10"/>
+    <textureregion id="20" src="tileGroupBackground3.png" x="239" y="498" width="10" height="10" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="10" srcheight="10"/>
+    <textureregion id="21" src="tileGroupBackground4.png" x="226" y="498" width="10" height="10" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="10" srcheight="10"/>
+    <textureregion id="22" src="tileGroupBackgroundCenter.png" x="100" y="485" width="503" height="10" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="503" srcheight="10"/>
+</texture>

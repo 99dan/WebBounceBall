@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="25" height="15" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="6">
+ <tileset firstgid="1" name="map_tiles" tilewidth="32" tileheight="32" tilecount="225" columns="15">
+  <image source="../../img/map_tiles.png" width="480" height="480"/>
+ </tileset>
+ <layer id="1" name="map" width="25" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAECmNgGAXUCAE9KhjiQ4QZrEA1KlBMhHKwkmg0hb5QPjqdDBUH2WGGpgcf1xRNEqQfBkSADBiGiYFokBoQBsnB2LhoZP3I7CSgXnQ/wPhAKQZDEEEAREHlI7GoM4aKwewE0bQAMDej07D4INVO9PgmVj++NIwtbmDm4tMHU0MvGhRHJiRYZk6CWlAYgAC2sICJ4ZIHaySSIBSe6kSaAwB9bZE/3AUAAA==
+  </data>
+ </layer>
+ <objectgroup color="#ffffff" id="2" name="Object Layer 1">
+  <object id="2" name="Kinematic" x="288" y="256" width="32" height="32">
+   <properties>
+    <property name="direction" value="vertical"/>
+    <property name="speed" value="2.5"/>
+   </properties>
+  </object>
+  <object id="3" name="Kinematic" x="736" y="256" width="32" height="32">
+   <properties>
+    <property name="direction" value="vertical"/>
+    <property name="speed" value="2.5"/>
+   </properties>
+  </object>
+  <object id="4" name="Kinematic" x="224" y="192" width="32" height="32">
+   <properties>
+    <property name="direction" value="vertical"/>
+   </properties>
+  </object>
+  <object id="5" name="Missile" x="672" y="160" width="32" height="32">
+   <properties>
+    <property name="direction" value="4"/>
+    <property name="speed" value="13"/>
+    <property name="time" value="0"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

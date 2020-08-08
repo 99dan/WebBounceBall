@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="TextureWorld.png" type="bitmap" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:00d913314a2e2ddb0e9e18aa3c4dc01b:5493e2bdba6e6fa8efd6dd44777036c0:3f6f8a1682cf4f00e1a6cf46ca562022$ -->
+    <textureregion id="0" src="world1.png" x="206" y="1424" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="1" src="world10.png" x="815" y="1221" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="2" src="world11.png" x="612" y="1221" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="3" src="world12.png" x="409" y="1221" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="4" src="world13.png" x="206" y="1221" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="5" src="world14.png" x="3" y="1830" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="6" src="world15.png" x="3" y="1627" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="7" src="world16.png" x="3" y="1424" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="8" src="world17.png" x="3" y="1221" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="9" src="world18.png" x="815" y="1018" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="10" src="world19.png" x="612" y="1018" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="11" src="world2.png" x="409" y="1018" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="12" src="world20.png" x="206" y="1018" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="13" src="world21.png" x="3" y="1018" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="14" src="world22.png" x="815" y="815" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="15" src="world23.png" x="612" y="815" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="16" src="world24.png" x="409" y="815" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="17" src="world25.png" x="206" y="815" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="18" src="world26.png" x="3" y="815" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="19" src="world27.png" x="815" y="612" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="20" src="world28.png" x="612" y="612" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="21" src="world29.png" x="409" y="612" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="22" src="world3.png" x="206" y="612" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="23" src="world30.png" x="3" y="612" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="24" src="world31.png" x="815" y="409" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="25" src="world32.png" x="612" y="409" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="26" src="world33.png" x="409" y="409" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="27" src="world34.png" x="206" y="409" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="28" src="world35.png" x="3" y="409" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="29" src="world36.png" x="815" y="206" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="30" src="world37.png" x="612" y="206" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="31" src="world38.png" x="409" y="206" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="32" src="world39.png" x="206" y="206" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="33" src="world4.png" x="3" y="206" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="34" src="world5.png" x="815" y="3" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="35" src="world6.png" x="612" y="3" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="36" src="world7.png" x="409" y="3" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="37" src="world8.png" x="206" y="3" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="38" src="world9.png" x="3" y="3" width="200" height="200" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="200" srcheight="200"/>
+    <textureregion id="39" src="world_easy.png" x="301" y="1652" width="61" height="22" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="61" srcheight="22"/>
+    <textureregion id="40" src="world_hard.png" x="301" y="1627" width="72" height="22" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="72" srcheight="22"/>
+    <textureregion id="41" src="world_perfect.png" x="206" y="1719" width="105" height="22" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="105" srcheight="22"/>
+    <textureregion id="42" src="world_star.png" x="206" y="1627" width="92" height="89" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="92" srcheight="89"/>
+</texture>
